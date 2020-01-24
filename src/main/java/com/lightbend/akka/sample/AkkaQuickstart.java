@@ -7,7 +7,7 @@ public class AkkaQuickstart {
   public static void main(String[] args) {
     System.out.println("--------Starting program---------");
     System.out.println("Building with maven ");
-    System.out.println("Date ");
+    System.out.println("Date now");
     //FernandoGutierrezG
     //#actor-system
     final ActorSystem<GreeterMain.SayHello> greeterMain = ActorSystem.create(GreeterMain.create(), "helloakka");
