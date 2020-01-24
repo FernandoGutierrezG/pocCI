@@ -7,7 +7,7 @@ public class AkkaQuickstart {
   public static void main(String[] args) {
     System.out.println("--------Starting program---------");
     System.out.println("Building with maven ");
-    System.out.println("Date ");
+    System.out.println("que show ");
     //FernandoGutierrezG
     //http://177.236.52.61:8080/github-webhook/
     // e31aaf5dce0d4ae1587963ad44228661f1a8def
